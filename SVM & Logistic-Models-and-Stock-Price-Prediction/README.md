@@ -1,3 +1,5 @@
+# Machine Learning Models (Support Vector Machine and Logistic) applied to Stock Price Prediction
+
 ### Description:
 
 In this mini-project, I will be attempting to produce a model to predict short-term stock returns, and anticipate positive moves (up trend) using notable Machine Learning tools such as Support Vector Machine and Logistic Classifiers models within Supervised Learning and propose several solutions that will aim at predicting short term asset returns. The goal is produce a model to predict positive moves (up trend). The project will attempt to glimpse over the below sections.
