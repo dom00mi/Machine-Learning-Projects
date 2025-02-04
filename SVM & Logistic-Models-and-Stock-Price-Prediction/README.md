@@ -118,5 +118,30 @@ This project has been built for educational purposes only and have been been pre
 
     - Implementation
     - Back-Testing via QuantStats
+ 
+
+### Some Visualizations:
+
+
+Below some of the visualizations I produced, for the full code please visit my JJupyter notebook!
+
+![feature corr](https://github.com/user-attachments/assets/6478e9f9-2a2d-4f4b-8ccd-de4971c12556)
+
+
+
+![strategy](https://github.com/user-attachments/assets/86eb66d0-9061-4800-ada3-9305d7b76453)
+
+
+![strategy1](https://github.com/user-attachments/assets/9e686046-cd92-43d0-9d11-07861498ed9f)
+
+
+![strategy2](https://github.com/user-attachments/assets/e532af1d-349e-409f-8de7-5cb02bb92dee)
+
+
+
+
+
+
+
     
     
