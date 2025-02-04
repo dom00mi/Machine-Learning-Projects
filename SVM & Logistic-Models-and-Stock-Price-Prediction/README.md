@@ -123,7 +123,7 @@ This project has been built for educational purposes only and have been been pre
 ### Some Visualizations:
 
 
-Below some of the visualizations I produced, for the full code please visit my JJupyter notebook!
+Below some of the visualizations I produced, for the full code please visit my Jupyter notebook!
 
 ![feature corr](https://github.com/user-attachments/assets/6478e9f9-2a2d-4f4b-8ccd-de4971c12556)
 
